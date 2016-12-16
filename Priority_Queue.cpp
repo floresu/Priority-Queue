@@ -22,7 +22,7 @@ int main()
 	for (int i = 0; i < 8; i++)
 	{
 		cout << queue.top() << endl;		// Prints the value of the queue.
-		queue.pop(); 						// Pop value from the top of the queue.
+		queue.pop(); 				// Pop value from the top of the queue.
 	}
 
 	return 0;
